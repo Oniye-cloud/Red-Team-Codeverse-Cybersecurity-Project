@@ -1,4 +1,3 @@
-
 This README below contains roles assignments, scenario setup, tool commands and full reports for the Red Team (Attackers).
 
 ## Role (Attackers)
