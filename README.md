@@ -1,4 +1,3 @@
-![nslookup](https://github.com/user-attachments/assets/bc3a41b1-d976-4e89-a271-f9fe51fc2e4a)# Project Codeverse: Red Team (Attackers)
 
 This README below contains roles assignments, scenario setup, tool commands and full reports for the Red Team (Attackers).
 
