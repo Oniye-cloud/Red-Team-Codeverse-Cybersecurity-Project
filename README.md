@@ -26,9 +26,9 @@ This README below contains roles assignments, scenario setup, tool commands and 
 
 ## Objectives
 
-```
+
 We are to perform a structured pentest on zonetransfer.me site, discover and safely exploit vulnerabilities, collect proofs and document findings. We did not do any destructive attack or Dos.
-```
+
 
 ## Rules of Engagement (ROE)
 
