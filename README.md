@@ -8,7 +8,7 @@ This README below contains roles assignments, scenario setup, tool commands and 
 
 • Recon Analysts: Ibrahim Asia and Olayiwola Mubaraq Tomilola.
 
-• Scanner/Enumeration Specialists: Adesina Jamiu and Omije Mitchel Akhamioje.
+• Scanner/Enumeration Specialists: Adesina Jamiu and Omijie Mitchel Akhamioje.
 
 • Exploit Handler: Omotosho Olasunkanmi.
 
